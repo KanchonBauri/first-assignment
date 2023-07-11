@@ -1,0 +1,210 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.banner-container {
+    display: flex;
+    justify-content: space-around;
+    height: 100vh;
+    background: #FCEEF1;
+    align-items: center;
+
+}
+
+.title {
+    font-size: 50px;
+    font-weight: 700px;
+}
+
+.banner-lorem {
+    margin-top: 20px;
+    color: rgb(77, 69, 69);
+}
+
+.banner-btn {
+    margin-top: 10px;
+    width: 100px;
+    height: 30px;
+    padding: 5px;
+    background-color: #E55473;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
+
+.banner-img {
+    width: 500px;
+    height: 600px;
+    margin-top: 25px;
+
+}
+
+
+/* Our Featured Flowers */
+
+.Featured {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.Featured-lorem {
+    margin: 20px;
+    color: grey;
+}
+
+.box-container {
+    display: flex;
+    margin: 30px;
+    padding-left: 180px;
+}
+
+.box1 {
+    width: 300px;
+    height: 350px;
+    background-color: #F2DEE7;
+    margin: 10px;
+    border-radius: 300px 300px 0px 0px;
+}
+
+.box2 {
+    width: 300px;
+    height: 350px;
+    background-color: #D9EFF1;
+    margin: 10px;
+    border-radius: 300px 300px 0px 0px;
+}
+
+.box3 {
+    width: 300px;
+    height: 350px;
+    background-color: #E7EED4;
+    margin: 10px;
+    border-radius: 300px 300px 0px 0px;
+}
+
+.pic {
+    width: 200px;
+    height: 320px;
+    padding: 30px;
+    margin-left: 15px;
+}
+
+.flower-name {
+    text-align: center;
+}
+
+
+
+/* support section */
+.support-container {
+    width: 950px;
+    height: 200px;
+    background-color: #F4F4F4;
+    margin-left: 220px;
+    margin-top: 20px;
+}
+
+.imgs-content {
+    display: flex;
+    align-items: center;
+    margin: 50px;
+
+}
+
+
+
+/* hot-deal-container  */
+.hot-deal-container {
+    display: flex;
+    justify-content: space-around;
+    background: #FCEEF1;
+    align-items: center;
+    text-align: center;
+    margin-top: 50px;
+    padding: 10px;
+}
+
+.hot-title {
+    margin: 20px;
+    font-size: 32px;
+}
+
+.off {
+    color: #E55473;
+}
+
+.hot-lorem {
+    color: rgb(129, 118, 118);
+}
+
+.btn {
+    margin: 20px;
+}
+
+
+
+/* instagram */
+.instagram {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.img-container {
+    display: flex;
+}
+
+.img {
+    width: 250px;
+    height: 300px;
+    margin: 40px;
+}
+
+/* Get The Latest Deals */
+.deals-container{
+    background-image: url(images/Rectangle\ 9.png);
+    background-repeat: no-repeat;
+    height: 300px;
+    margin: 50px;
+    
+}
+.deals-container{
+    text-align: center;
+    padding-top: 150px;
+}
+.deals-title{
+    font-size: 40px;
+}
+.deals-lorem{
+    font-size: 20px;
+    color: #646666;
+    margin: 20px;
+}
+.input{
+    width: 400px;
+    height: 30px;
+    border: none;
+}
+
+
+
+
+.footer{
+    text-align: center;
+    background-color: black;
+    height: 200px;
+    color:white ;
+    padding:80px;
+}
+.flower{
+    font-size: 42px;
+    margin: 10px;
+}
+.flower-lorem{
+    margin: 20px;
+    color: #D9EFF1;
+}
+.flower-text{
+    margin-top: 30px;
+    color: #646666;
+}
